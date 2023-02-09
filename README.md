@@ -17,3 +17,7 @@ Full documentation and user guide are available in the [reports](https://github.
 <p align="center">
   <img src="https://github.com/dadamczykk/Visibility_Graph/blob/main/reports/visGraph.gif">
 </p>
+
+## Contributors
+* [Szymon Nowak-Trzos](https://github.com/Szyntos/)
+* [Dominik Adamczyk](https://github.com/dadamczykk)
